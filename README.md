@@ -1,3 +1,4 @@
+其他用法教程：https://www.cnblogs.com/chensongchun/p/16293840.html
 # deepfakes_faceswap
 <p align="center">
   <a href="https://faceswap.dev"><img src="https://i.imgur.com/zHvjHnb.png"></img></a>
